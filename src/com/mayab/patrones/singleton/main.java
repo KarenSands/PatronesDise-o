@@ -30,9 +30,6 @@ public class main {
         us2.Logout();
         us2.isLogueado();
         System.out.println(us.isLogueado());
-
-        
-        
        
     }
     
